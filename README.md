@@ -1,8 +1,4 @@
 # technical-discussion
-This is a demo for sharing ideas around communication
+Multiple files working with Docker and Unit testing
 
-## This is a second heading
-
-* One
-* Two
-* Three
+* 1. Docker Integration with ML/AI
